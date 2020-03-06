@@ -1,2 +1,2 @@
 # Web-Scraping-Work
-Built some scrappers for data to use in Data Science Project.
+Built some web scrapers for (collecting data) to use in Data Science Project.
